@@ -4,7 +4,7 @@ print(num)
 for i in num:
     print(i)
 
-name ="Vasu"
+name ="Tejas"
 print(name)
 for ch in name:
     print(ch)
@@ -25,11 +25,12 @@ for key,value in student.items():
 30
 40
 50
-Vasu
-V
+Tejas
+T
+e
+j
 a
 s
-u
-name : vasu
+name : tejas
 age : 21
 Course : Python'''
