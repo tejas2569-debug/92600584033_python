@@ -1,5 +1,5 @@
 # 2. Write a program to illustrate the use of different data types and type casting.
-name = "Ratn"
+name = "Tejas"
 age = 21
 hight = 5.5
 is_student = True
@@ -17,7 +17,7 @@ print("integer to float :-",num3)
 print("integer to string :-",num4)
 '''
 output:-
-name :, Ratn Type : <class 'str'>
+name :, Tejas Type : <class 'str'>
 age :, 21 Type : <class 'int'>
 hight :, 5.6 Type : <class 'float'>
 is__student :, True Type : <class 'bool'>
