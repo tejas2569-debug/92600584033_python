@@ -1,5 +1,5 @@
 # Write a program to demonstrate iterators and iterables in Python.
-num = [10,20,30,40,50,60]
+num = [10,20,30,40,51,61]
 print(num)
 print("Iterable:")
 for i in num:
