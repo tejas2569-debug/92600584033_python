@@ -7,7 +7,7 @@ print("your age is ",age)
 
 '''
 output :-
-Enter your name :=Ratn
+Enter your name :=Tejas
 Enter your age :=21
 hello Ratn
 your age is  21'''
